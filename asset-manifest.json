@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test-infomovie/static/css/main.d8afa30b.chunk.css",
+    "main.js": "/test-infomovie/static/js/main.df607901.chunk.js",
+    "main.js.map": "/test-infomovie/static/js/main.df607901.chunk.js.map",
+    "runtime-main.js": "/test-infomovie/static/js/runtime-main.6163c987.js",
+    "runtime-main.js.map": "/test-infomovie/static/js/runtime-main.6163c987.js.map",
+    "static/js/2.3d44846e.chunk.js": "/test-infomovie/static/js/2.3d44846e.chunk.js",
+    "static/js/2.3d44846e.chunk.js.map": "/test-infomovie/static/js/2.3d44846e.chunk.js.map",
+    "static/js/3.bb960184.chunk.js": "/test-infomovie/static/js/3.bb960184.chunk.js",
+    "static/js/3.bb960184.chunk.js.map": "/test-infomovie/static/js/3.bb960184.chunk.js.map",
+    "index.html": "/test-infomovie/index.html",
+    "static/css/main.d8afa30b.chunk.css.map": "/test-infomovie/static/css/main.d8afa30b.chunk.css.map",
+    "static/js/2.3d44846e.chunk.js.LICENSE.txt": "/test-infomovie/static/js/2.3d44846e.chunk.js.LICENSE.txt",
+    "static/media/informovie-white.a8525082.png": "/test-infomovie/static/media/informovie-white.a8525082.png",
+    "static/media/loginPageImage.8991af8c.jpg": "/test-infomovie/static/media/loginPageImage.8991af8c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6163c987.js",
+    "static/js/2.3d44846e.chunk.js",
+    "static/css/main.d8afa30b.chunk.css",
+    "static/js/main.df607901.chunk.js"
+  ]
+}
